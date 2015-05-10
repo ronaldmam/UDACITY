@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:helperCustomer xmlns:ns2="oop1.pro2.uml.domain.helper">
+    <customerList>
+        <edad>32</edad>
+        <id>1000</id>
+        <name>Ronald</name>
+    </customerList>
+    <customerList>
+        <edad>22</edad>
+        <id>1001</id>
+        <name>Carlos</name>
+    </customerList>
+</ns2:helperCustomer>
